@@ -3,6 +3,8 @@ la linea de comando de git.
 Rebase intento.
 cambio archivo de texto
 esta es una t&ilde
+
 Master prueba
 esta es una t&icuteslde
 esto es un peque&icutessimo experimento.
+
